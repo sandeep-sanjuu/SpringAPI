@@ -1,0 +1,6 @@
+com\example\demo\SpringRestApiApplication.class
+com\example\demo\reposistry\DepartmentRepositry.class
+com\example\demo\service\DepartmentService.class
+com\example\demo\controller\DepartmentControll.class
+com\example\demo\service\DepartmentServiceImple.class
+com\example\demo\entity\EmployeeDetails.class
